@@ -1,0 +1,6 @@
+.nextflow*
+work
+*/.DS_Store
+*/**/.DS_Store
+.command*
+.DS_Store
